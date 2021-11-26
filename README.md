@@ -38,12 +38,12 @@ Here are some ideas to get you started:
 
 
 
-</br>
+<!-- </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keyurdiwan&show_icons=true&locale=en&layout=compact" alt="keyurdiwan" /></p>
 
 </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keyurdiwan&show_icons=true&locale=en" alt="keyurdiwan" /></p>
-</br>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keyurdiwan&show_icons=true&locale=en" alt="keyurdiwan" /></p>
+</br> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keyurdiwan&" alt="keyurdiwan" /></p>
-</br>
+</br> -->
