@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keyur Diwan</h1>
-<h3 align="center">A passionate Android and Web Developer</h3>
+<h3 align="center">A passionate Android and Web Developer from India</h3>
 I am a creative FullStack Engineer and Self-Proclaimed genius. I have always been passionate about everything related to technology and IT, especially the web professions, which I made my career by always giving the best of myself as a Web Developer. I also love to code things from scratch, and enjoy bringing ideas to life in the browser, combining the acquisition of new knowledge with independent work on various projects. Aside code I love watching movies and travelling to different places.
 
 
