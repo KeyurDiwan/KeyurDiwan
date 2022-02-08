@@ -16,4 +16,4 @@ I am a creative FullStack Engineer and Self-Proclaimed genius. I have always bee
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keyurdiwan&show_icons=true&locale=en" alt="keyurdiwan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keyurdiwan&" alt="keyurdiwan" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keyurdiwan&" alt="keyurdiwan" /></p> -->
